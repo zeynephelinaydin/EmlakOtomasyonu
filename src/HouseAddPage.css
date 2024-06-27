@@ -1,0 +1,36 @@
+/* Kartın arka plan rengini ve kenarlık stilini güncelle */
+.ant-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Form öğelerinin arka plan rengini ve kenarlık stilini güncelle */
+  .ant-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Form öğelerinin etiketlerinin rengini güncelle */
+  .ant-form-item-label {
+    color: #001529;
+  }
+  
+  /* Form öğelerinin input ve select alanlarının rengini güncelle */
+  .ant-input,
+  .ant-select-selector {
+    background-color: #f5f5f5;
+    border: none;
+    border-radius: 4px;
+  }
+  
+ 
+  
+  /* Butonun hover (üzerine gelindiğinde) rengini güncelle */
+  .ant-btn:hover {
+    background-color: #40a9ff;
+    border-color: #40a9ff;
+  }
+  

@@ -1,0 +1,107 @@
+body {
+    background-color: #f0f2f5;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #001529;
+    padding: 20px 70px;
+    color: #ffffff;
+  }
+  
+  .logo {
+    flex: 1;
+  }
+  
+  .logo img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .menu {
+    flex: 2;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .menu-link {
+    color: white;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 20px;
+  }
+  
+  .menu-link:hover {
+    color: #1890ff;
+  }
+  
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+  
+  .card {
+    width: calc(100% - 40px);
+    margin: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff; /* Card arka plan rengi */
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .social-icons a {
+    color: #001529;
+    margin: 0 10px;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #1890ff;
+  }
+  
+  .houses {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+  
+  .house-card {
+    width: 30%;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fafafa; /* House card arka plan rengi */
+  }
+  
+  .house-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .ant-card-meta-title {
+    color: #001529;
+  }
+  
+  .ant-card-meta-description {
+    color: #595959;
+  }
+

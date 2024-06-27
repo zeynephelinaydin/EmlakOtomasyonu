@@ -1,0 +1,83 @@
+body {
+    background-color: #e0f7fa;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .ant-card {
+    border-radius: 10px; /* Kart kenar yuvarlaklığı */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Kart gölgesi */
+  }
+  
+  .ant-card-head { /* Kart başlığı */
+    background-color: #00796b;
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .ant-card-body {
+    padding: 20px; /* Kart içeriği iç boşluk */
+  }
+  
+  .ant-form-item {
+    margin-bottom: 15px; /* Form elemanları arası boşluk */
+  }
+  
+  .ant-input-affix-wrapper {
+    border-radius: 5px; /* Input alanı kenar yuvarlaklığı */
+  }
+  .ant-btn-primary {
+    background-color: #00796b; /* Temel düğme arka plan rengi */
+    border-color: #00796b; /* Temel düğme kenar rengi */
+    border-radius: 5px; /* Temel düğme kenar yuvarlaklığı */
+  }
+  
+  .ant-btn-primary:hover {
+    background-color: #004d40; /* Fare üzerine gelindiğinde düğme arka plan rengi */
+    border-color: #004d40; /* Fare üzerine gelindiğinde düğme kenar rengi */
+  }
+  
+  .ant-checkbox-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ant-checkbox + span {
+    padding-left: 8px;
+  }
+  
+  .ant-modal-header {
+    background-color: #00796b;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  .ant-modal-body {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .ant-modal-footer .ant-btn-primary {
+    background-color: #00796b;
+    border-color: #00796b;
+    border-radius: 5px;
+  }
+  a {
+    color: #00796b; /* Bağlantı metin rengi */
+  }
+  
+  a:hover {
+    color: #004d40; /* Fare üzerine gelindiğinde bağlantı metin rengi */
+  }
+  .icon-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .icon {
+    font-size: 32px;
+    color: #00796b;
+    margin: 0 10px;
+  }
+  
