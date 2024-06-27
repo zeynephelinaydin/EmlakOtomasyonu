@@ -1,35 +1,39 @@
-Emlak Otomasyonu
-Bu proje, React ve Ant Design kullanarak geliştirilmiş bir emlak otomasyon sistemidir. Proje, kullanıcıların ev ekleyebildiği, filtreleyebildiği ve kayıtlı evlerini görüntüleyebildiği bir uygulamadır.
+🏡 Emlak Otomasyonu
+Merhaba! Bu proje, React ve Ant Design kullanarak geliştirilmiş bir emlak otomasyon sistemidir. Kullanıcılar ev ekleyebilir, filtreleyebilir ve kayıtlı evlerini görüntüleyebilir. 😊
 
-Özellikler
-Anasayfa: Uygulamanın giriş sayfası.
-Login ve Logout Sayfaları: Kullanıcı girişi ve çıkışı için.
-Ev Filtreleme Sayfası: Kullanıcıların belirli kriterlere göre ev arayabileceği sayfa.
-Ev Ekleme Sayfası: Kullanıcıların yeni ev ekleyebileceği sayfa.
-Kayıtlı Evler Sayfası: Kullanıcıların kayıt ettikleri evleri görüntüleyebileceği ve yönetebileceği sayfa.
-Kullanılan Teknolojiler
+✨ Özellikler
+🏠 Anasayfa: Uygulamanın giriş sayfası.
+🔐 Login ve Logout Sayfaları: Kullanıcı girişi ve çıkışı için.
+🔍 Ev Filtreleme Sayfası: Kullanıcıların belirli kriterlere göre ev arayabileceği sayfa.
+➕ Ev Ekleme Sayfası: Kullanıcıların yeni ev ekleyebileceği sayfa.
+📋 Kayıtlı Evler Sayfası: Kullanıcıların kayıt ettikleri evleri görüntüleyebileceği ve yönetebileceği sayfa.
+🛠️ Kullanılan Teknolojiler
 React: Kullanıcı arayüzünü oluşturmak için.
 Ant Design: UI bileşenlerini stilize etmek için.
 Local Storage: Kullanıcı verilerini tarayıcıda saklamak için.
 NoCodeAPI: Google Sheets ile entegrasyon için.
-Kullanım
-Anasayfa
+🧭 Kullanım
+🏠 Anasayfa
 Anasayfa, kullanıcıların genel bilgilere ulaşabileceği ve site içindeki farklı sayfalara yönlenebileceği giriş noktasıdır.
 
-Login ve Logout Sayfaları
+🔐 Login ve Logout Sayfaları
 Kullanıcılar, giriş yaparak uygulamanın sunduğu tüm özelliklerden faydalanabilirler. Giriş yapıldıktan sonra kullanıcı bilgileri local storage'da saklanır.
 
-Ev Filtreleme Sayfası
+🔍 Ev Filtreleme Sayfası
 Bu sayfada kullanıcılar, şehir, durum, oda sayısı, eşya durumu ve cephe gibi kriterlere göre ev arayabilirler.
 
-Ev Ekleme Sayfası
+➕ Ev Ekleme Sayfası
 Kullanıcılar bu sayfada yeni evler ekleyebilirler. Ev ekleme formu, açıklama, fiyat, şehir, durum, oda sayısı, eşya durumu ve fotoğraf gibi alanları içerir.
 
-Kayıtlı Evler Sayfası
+📋 Kayıtlı Evler Sayfası
 Bu sayfada kullanıcılar, daha önce kaydettikleri evleri görüntüleyebilir, güncelleyebilir ve silebilirler. Kayıtlı evler local storage'da saklanır.
 
-Katkıda Bulunma
-Katkılarınızı bekliyoruz! Değişiklikler için lütfen bir pull request açın.
+💬 Katkıda Bulunma
+Katkılarınızı bekliyoruz! Değişiklikler için lütfen bir pull request açın. 🚀
+
+📜 Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için LICENSE dosyasına bakın.
+
 
 
 <img width="1470" alt="Ekran Resmi 2024-06-27 16 28 20" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/4676157c-4e16-401a-a914-e1f7d6b034e4">
