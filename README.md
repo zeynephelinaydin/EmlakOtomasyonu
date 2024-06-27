@@ -1,6 +1,6 @@
-
 Emlak Otomasyonu
 Bu proje, React ve Ant Design kullanarak geliştirilmiş bir emlak otomasyon sistemidir. Proje, kullanıcıların ev ekleyebildiği, filtreleyebildiği ve kayıtlı evlerini görüntüleyebildiği bir uygulamadır.
+
 Özellikler
 Anasayfa: Uygulamanın giriş sayfası.
 Login ve Logout Sayfaları: Kullanıcı girişi ve çıkışı için.
@@ -12,7 +12,6 @@ React: Kullanıcı arayüzünü oluşturmak için.
 Ant Design: UI bileşenlerini stilize etmek için.
 Local Storage: Kullanıcı verilerini tarayıcıda saklamak için.
 NoCodeAPI: Google Sheets ile entegrasyon için.
-
 Kullanım
 Anasayfa
 Anasayfa, kullanıcıların genel bilgilere ulaşabileceği ve site içindeki farklı sayfalara yönlenebileceği giriş noktasıdır.
@@ -31,6 +30,7 @@ Bu sayfada kullanıcılar, daha önce kaydettikleri evleri görüntüleyebilir, 
 
 Katkıda Bulunma
 Katkılarınızı bekliyoruz! Değişiklikler için lütfen bir pull request açın.
+
 
 <img width="1470" alt="Ekran Resmi 2024-06-27 16 28 20" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/4676157c-4e16-401a-a914-e1f7d6b034e4">
 <img width="1470" alt="Ekran Resmi 2024-06-27 16 28 39" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/a401a97b-f2b8-4b40-af71-0d14874cb013">
