@@ -1,70 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 28 20" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/4676157c-4e16-401a-a914-e1f7d6b034e4">
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 28 39" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/a401a97b-f2b8-4b40-af71-0d14874cb013">
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 28 51" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/7e7ba488-da54-4a9d-98c2-5f103b90b025">
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 30 23" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/86d8a248-c68e-4db1-be1d-92fd17a77359">
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 30 54" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/034a7c53-10c1-4001-a396-cfc17d93b190">
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 32 45" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/923f5e62-c870-406a-8085-af9f61af3a0a">
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 34 51" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/e22c0a1a-70a0-4354-8b66-8e57157b70eb">
+<img width="1465" alt="Ekran Resmi 2024-06-27 16 35 40" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/31abf149-17f8-4c1a-aa19-86931147ac66">
+<img width="1467" alt="Ekran Resmi 2024-06-27 16 35 56" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/8b4eab1d-29af-40ab-9fdc-3480c9433690">
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 37 10" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/244e38f4-fe62-4103-8f68-01b0192aa5f4">
+<img width="1462" alt="Ekran Resmi 2024-06-27 16 37 17" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/b9b11040-1fe0-4f50-a76d-12f375cd4dd1">
+<img width="1470" alt="Ekran Resmi 2024-06-27 16 37 35" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/5f3b5a61-b157-48c5-bb2c-6adc9cb260bf">
