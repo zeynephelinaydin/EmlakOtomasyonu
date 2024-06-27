@@ -47,4 +47,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için LICENSE dosyasına
 <img width="1467" alt="Ekran Resmi 2024-06-27 16 35 56" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/8b4eab1d-29af-40ab-9fdc-3480c9433690">
 <img width="1462" alt="a" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/c7116181-dab7-46cb-b8f5-584d07856ab7">
 <img width="1462" alt="Ekran Resmi 2024-06-27 16 37 17" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/b9b11040-1fe0-4f50-a76d-12f375cd4dd1">
-<img width="1470" alt="Ekran Resmi 2024-06-27 16 37 35" src="https://github.com/zeynephelinaydin/emlak-/assets/120177564/5f3b5a61-b157-48c5-bb2c-6adc9cb260bf">
+
